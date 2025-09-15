@@ -1,6 +1,6 @@
 <h1>Hi! <strong>Nextherin</strong> Here!👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=FrontEnd+Developer;A+Cyber+Security+Student!;to+infinity+and+beyond+%F0%9F%94%AD%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=FrontEnd+Developer;Cyber+Security+;Sometimes+I+hate+coding)](https://git.io/typing-svg)
 
 ```bash
 to infinity, and beyond 🔭🌟
