@@ -11,7 +11,7 @@ to infinity, and beyond 🔭🌟
 
 <h2>🛠️ My Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,vscode,java,androidstudio,aws,windows,arch,linux,figma,notion,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,python,c,vscode,java,androidstudio,windows,linux,)](https://skillicons.dev)
 
 <h2>⚙️ My Gears:</h2>
 
