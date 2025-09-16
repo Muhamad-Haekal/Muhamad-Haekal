@@ -1,19 +1,14 @@
-<h1>Hi! <strong>Nextherin</strong> Here!👋</h1>
+<h1>yoowww Nextherin Here! 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64E2FF&width=435&lines=FrontEnd+Developer;Cyber+Security+;Sometimes+I+hate+coding)](https://git.io/typing-svg)
 
-```bash
+bash
 to infinity, and beyond 🔭🌟
-```
 
-![Nextherin's Stats](https://github-readme-stats.vercel.app/api?username=Muhamad-Haekal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Nextherin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamad-Haekal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-<h2>🛠️ My Tools:</h2>
+![muhamad-haekal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamad-haekal&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![muhamad-haekal's Stats](https://github-readme-stats.vercel.app/api?username=muhamad-haekal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,python,c,vscode,java,androidstudio,windows,linux,)](https://skillicons.dev)
+<h2>🛠 Skills:</h2>
 
-<h2>⚙️ My Gears:</h2>
-
-💻: Lenovo ThinkPad T490 <br>
-📱: Samsung Galaxy A16 LTE
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,cs,python,vscode,androidstudio,windows,linux,)](https://skillicons.dev)
